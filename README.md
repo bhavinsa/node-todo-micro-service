@@ -18,5 +18,7 @@ npm run dev
 ```
 
 Your app should now be running on [localhost:8080](http://localhost:8080/).
+
 The `API` app is accessed via [localhost:7070](http://localhost:7070/)
+
 and the `Entity-Access` app is accessed via [localhost:6060](http://localhost:6060/)
