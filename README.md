@@ -11,7 +11,7 @@ This repo has `static`` html/css/js app,
 Make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```sh
-git clone  # or clone your own fork
+git clone https://github.com/bhavinsa/node-todo-micro-service.git  # or clone your own fork
 cd node-todo-micro-service
 npm install
 npm run dev
